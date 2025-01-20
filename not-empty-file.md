@@ -2,3 +2,6 @@
 
 
 hello world this is not an empty file
+
+
+# Testing git diff command.
