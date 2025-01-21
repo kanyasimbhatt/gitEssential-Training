@@ -1,0 +1,5 @@
+1. Enter 1 as input
+2. Enter 2 as input
+3. Enter 3 as input
+4. Enter 4 as input
+5. Enter 5 as input
